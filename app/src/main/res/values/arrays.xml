@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="genres"><item>--Seclect Stream--</item>
+        <item>Arts</item>
+        <item>Science</item>
+        <item>Commerce</item>
+        <item>Engineering</item></string-array>
+</resources>
